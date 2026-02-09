@@ -1,8 +1,6 @@
 # Customer_Churn-prediction
 Implemented and compared Logistic Regression and XGBoost models for customer churn prediction, conducted cross-validation, hyperparameter tuning, feature analysis, and threshold optimization, resulting in a robust model with ROC-AUC of 0.83.
 
-# Customer Churn Prediction using Machine Learning
-
 ## Project Overview
 
 Customer churn is a critical business problem where companies aim to identify customers who are likely to discontinue their services. This project focuses on building an end-to-end **customer churn prediction system** using supervised machine learning techniques, with an emphasis on **model comparison, proper evaluation, and decision-oriented threshold optimization**.
