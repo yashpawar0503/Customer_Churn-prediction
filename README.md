@@ -64,7 +64,7 @@ The dataset contains customer-level information including:
 
 ## Model Evaluation Metrics
 
-Given the class imbalance in churn prediction, the following metrics were used:
+Prior to model training, an exploratory correlation analysis was performed using a Seaborn heatmap to understand linear relationships between numerical features and identify potential multicollinearity. This analysis helped guide feature selection decisions (e.g., removal of highly correlated features such as redundant charge-related variables). Given the class imbalance in churn prediction, the following metrics were used:
 
 * **ROC-AUC** (primary metric for model selection)
 * Precision, Recall, and F1-score
