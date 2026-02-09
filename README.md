@@ -129,5 +129,3 @@ After comparing Logistic Regression and XGBoost models, performing hyperparamete
 * matplotlib, seaborn
 
 
-*This project emphasizes correct ML methodology, interpretability, and business relevance rather than just model accuracy.*
-
